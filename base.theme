@@ -1,4 +1,4 @@
-{$ raw %}
+{% raw %}
 
 {% extends "2.1/omni.theme" %}
 {% import '2.1/omni.pages' as omniPages with context %}
